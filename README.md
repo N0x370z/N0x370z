@@ -1,10 +1,10 @@
-# Hola, soy Iván 👋
+# Hola, soy Ivan 👋
 
 **Estudiante de Ingeniería en Ciencias de la Computación @ BUAP** (2022–2027), enfocado en infraestructura, DevOps y seguridad. Aprendo montando, rompiendo y documentando mi propio homelab de producción.
 
 - 🔭 Estudiando para **Cisco Ethical Hacker** y **Stanford Code in Place (Python)**
 - 🌱 Profundizando en seguridad ofensiva, redes y self-hosting
-- 📫 ivanlml36o@outlook.com · [LinkedIn](https://linkedin.com/in/ivan-luna-martínez-429b143b9)
+- 📫 ivanlml36o@outlook.com · [LinkedIn](https://linkedin.com/in/ivan-luna-martínez-429b143b9) · crash2514@outlook.com
 
 ---
 
